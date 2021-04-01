@@ -13,3 +13,8 @@ body {
   background-size: cover;
   color: #fff;
 }
+.prof{
+  width: 6%;
+  height: auto;
+  border-radius: 206% 221% 17% 32%
+}
